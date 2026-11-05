@@ -8,14 +8,16 @@ Global Solution 2026/2 · Domain Driven Design Using Java · FIAP 1TDS
 
 | Nome | RM | Turma |
 |---|---|---|
-| _preencher_ | _rm_ | 1TDS |
-| _preencher_ | _rm_ | 1TDS |
+| Enzo Leiva | 568877 | 1TDSPO |
+| Matheus Segura | 570878 | 1TDSPO |
+| Kauã Fiuza | 572369 | 1TDSPO |
+| Lucas Almeida | 572499 | 1TDSPO |
 
 ## Links
 
-- **API no Render:** _https://cuidai-api.onrender.com_ ← trocar pela URL real
+- **API no Render:** https://cuidai-api.onrender.com
 - **Vídeo (YouTube, não listado):** _link_ ← trocar
-- **Front-end:** _link do repositório/Vercel_
+- **Front-end:** https://cuidai-front.vercel.app · [repositório](https://github.com/enzoleiva2008-blip/cuidai-front)
 
 ## Tecnologias
 
